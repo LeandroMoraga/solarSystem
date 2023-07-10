@@ -10,7 +10,7 @@ public class Main {
         featureSun fS = new featureSun();
         fS.name="laura";
         fS.color="yellow";
-        fS.heat=40939302F;
+        fS.heat="40939302F";
 
 
     }

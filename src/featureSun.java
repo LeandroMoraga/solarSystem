@@ -5,8 +5,4 @@ public class featureSun {
     String color;
     String heat;
 
-
-
-
-
 }
