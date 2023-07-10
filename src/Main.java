@@ -6,5 +6,11 @@ public class Main {
         s.sun="1";
         s.Planet="2";
         s.star="4";
+
+        featureSun f = new featureSun();
+        f.name="george";
+        f.temp="3433f";
+        f.size="3223cm";
+
     }
 }
