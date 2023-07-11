@@ -12,6 +12,11 @@ public class Main {
         fS.color="yellow";
         fS.heat="40939302F";
 
+        planetOne p1 = new planetOne();
+        p1.name="voila";
+        p1.color="pink";
+        p1.temp="-45celcius";
+        p1.size="1cm";
 
     }
 }
